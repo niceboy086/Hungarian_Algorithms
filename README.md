@@ -8,4 +8,4 @@ Hungarian Algorithms 匈牙利算法，1956年Harold Kuhn提出图论的匈牙�
 ### KM Algorithms / Kuhn-Munkres Algorithms / Munkres Assignment Algorithms
 KM Algorithms / Kuhn-Munkres Algorithms / Munkres Assignment Algorithms，标星0和标撇0(starred zeros and primed zeros)  
 KM算法 / Kuhn-Munkres算法 / Munkres分配算法  
-<img src="MunkresAssign.jpg" width="600px">
+<img src="MunkresAssign.jpg" width="708px">
